@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2571", SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2563", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4647", CNN BRASIL
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415612
+#EXTINF:0 type="stream" channelId="2467", TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2436", REDE TV
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
+#EXTINF:0 type="stream" channelId="2454", TV FUTURA
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2892", Globo HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RECORD TV
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2466", TV BRASIL
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuomew-M--Egex122Vxu9WRMsutjdvXXnfNQrjP_tHDu)/dm/3/x82pp99/d/live-2.m3u8#cell=lnyc
+#EXTINF:0 type="stream" channelId="-1", TELEVISA
+https://channel04dai-notusa.akamaized.net/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/1f51679b-70da-480b-aee9-5d6442b23ee6:SCL/variant/a7a6d2c8940398ec2b328cf89523ba8f/bandwidth/1087111.m3u8?hdntl=exp=1675198273~acl=*~id=b588a962-231f-4f8b-a440-a4b64a6167a3~data=hdntl~hmac=d56a5ba4744b31d23eb63926720d9ccde03b1a52c1f0768ff184afb179d878c4&
